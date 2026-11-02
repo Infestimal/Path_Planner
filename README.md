@@ -1,5 +1,6 @@
 # Path Planner
-
+## Goal
+Interactive Bezier Curve Editor to make editing robot paths and waypoints easy. Includes direct file saving so the files don't need to be copied over.
 
 ## MVP Scope
 Visual and Numerical Based Bezier Curve Editor that saves and reads from interactable files
